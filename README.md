@@ -40,6 +40,6 @@ This is our way of living and working at Spritle. It will detail the best ways w
 Thank you,
 [contributors](https://github.com/spritlesoftware/playbook/graphs/contributors)!
 
-Maintained by [SpritleSoftware](/https://spritle.com/).
+Maintained by [SpritleSoftware](https://spritle.com/).
 
 
