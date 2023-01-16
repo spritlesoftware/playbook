@@ -55,7 +55,16 @@ Software Design
     Server information
     Database design
     Architecture diagram
-    Workflow d iagram
+    Workflow diagram
+
+## Others
+    - Boilerplate
+    - Deployment 
+    - Mobile application distribution
+    - CI/CD
+    - Code review process
+    - Pull request process
+
 
 
 
