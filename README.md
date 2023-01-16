@@ -43,3 +43,26 @@ Thank you,
 Maintained by [SpritleSoftware](https://spritle.com/).
 
 
+Wireframe
+
+PM Tools
+Security tools
+
+
+Software Design
+    Languages/Tools used
+    Server information
+    Database design
+    Architecture diagram
+    Workflow d iagram
+
+
+
+UI Design
+
+
+DEFI
+DAO
+
+
+like magic 
