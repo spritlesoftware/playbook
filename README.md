@@ -36,6 +36,14 @@ This is our way of living and working at Spritle. It will detail the best ways w
 - [Relational Databases](/relational-databases/)
 - [NoSQL Databases](/NoSQL-datbases/)
 
+## Others
+    - Boilerplate
+    - Deployment 
+    - Mobile application distribution
+    - CI/CD
+    - Code review process
+    - Pull request process
+
 ## Credits
 
 Thank you,
@@ -56,17 +64,6 @@ Software Design
     Database design
     Architecture diagram
     Workflow diagram
-
-## Others
-    - Boilerplate
-    - Deployment 
-    - Mobile application distribution
-    - CI/CD
-    - Code review process
-    - Pull request process
-
-
-
 
 UI Design
 
