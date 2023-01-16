@@ -19,6 +19,7 @@ This is our way of living and working at Spritle. It will detail the best ways w
 - [JavaScript](/javascript/)
 - [TypeScript](/typescript/)
 - [CoffeeScript](/coffeescript/)
+- [CleanCode](/cleancode/)
 
 ### Frameworks and platforms
 
